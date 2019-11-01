@@ -9,7 +9,7 @@
     name : "David Rayy",
     sclass : "VI",
     rollno : 12 };
-    ```
+ ```
     
   Sample Output: name,sclass,rollno
   
